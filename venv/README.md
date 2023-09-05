@@ -26,7 +26,7 @@ El proyecto final se encuentra en: [Repositorio github Ohmicat GO](https://githu
 
 ---
 
-1. Clonar el repositorio en github: git clone https://github.com/OhmiCat/ProyectFinal.git
+1. Clonar el repositorio en github: git clone https://github.com/OhmiCat/ProyectFinal.gits
 2. Crear un archivo venv en la raiz del proyecto (en caso ya va incluido, pero no debe ir):
    - py -3.10 -m venv venv
 3. Activar el entorno virtual:
