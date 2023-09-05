@@ -33,12 +33,13 @@ El proyecto final se encuentra en: [Repositorio github Ohmicat GO](https://githu
    - ./venv/Scripts/activate
 4. Instalar las dependencias:
    - pip install -r requirements.txt
-5. Ejecutar las migraciones:
+5. Crear la base de datos
+6. Ejecutar las migraciones:
    - python manage.py migrate
-6. Crear un superusuario:
+7. Crear un superusuario:
    - python manage.py createsuperuser
-7. Ejecutar el servidor en el puerto 8001 (se pone el 8001 porque por default utilizan el 8000 y puede ser otro puerto):
+8. Ejecutar el servidor en el puerto 8001 (se pone el 8001 porque por default utilizan el 8000 y puede ser otro puerto):
    - python manage.py runserver 8001
-8. Para ejecutar el proyecto en el navegador puede utilizar cualquiera de las dos ligas:
+9. Para ejecutar el proyecto en el navegador puede utilizar cualquiera de las dos ligas:
    - http://127.0.0.1:8001/
    - http://localhost:8001/
